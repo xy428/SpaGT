@@ -2,7 +2,7 @@
 
 SpaGT (Spatially informed Graph Transformer)  is a python tool for spatial transcriptomics analysis.
 
-![SpaGT](./SpaGT_overview.png)
+![SpaGT](./SpaGT_overview.jpg)
 
 # Abstract
 
